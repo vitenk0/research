@@ -1,0 +1,4 @@
+May 12:
+- vary depth 2-10
+- hold output for subsystem A constant (not for all bitstrings)
+- plot depth vs collision probability
